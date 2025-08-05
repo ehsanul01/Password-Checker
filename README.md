@@ -1,4 +1,4 @@
-# Password Breach Checker
+# Password  Checker
 
 This project checks if your password has been exposed in any known data breaches by using the **[Have I Been Pwned](https://haveibeenpwned.com/)** API — specifically the **Pwned Passwords** service.
 
