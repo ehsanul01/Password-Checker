@@ -30,6 +30,6 @@ It uses the **K-Anonymity model**, which allows checking passwords securely **wi
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/password-breach-checker.git
+git clone https://github.com/ehasanul01/password-breach-checker.git
 cd password-breach-checker
 ```
