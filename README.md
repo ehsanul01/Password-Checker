@@ -31,13 +31,5 @@ It uses the **K-Anonymity model**, which allows checking passwords securely **wi
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/yourusername/password-breach-checker.git
-cd password-breach-checker ```
-
-
-
-### INSTALL REQ
-Make sure you have Python installed (3.6+ recommended).
-Install dependencies:
-```
-pip install requests
+cd password-breach-checker
 ```
