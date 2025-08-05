@@ -139,5 +139,15 @@ uniqueSecurePass!@# was NOT found. Carry on!
 ---
 
 ## License
-This project is released under the MIT License.  
-You are free to use, modify, and distribute it with proper attribution.
+
+
+
+MIT License
+
+Copyright (c) 2025 Ehsanul Haque
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction...
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
