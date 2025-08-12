@@ -26,7 +26,7 @@ It uses the **K-Anonymity model**, which allows checking passwords securely **wi
 
 4. **Local Matching**  
    The program compares the remaining hash characters locally to check if your exact password is in the breach database.
-
+  
 5. **Output Result**  
    If found, it shows how many times your password appeared in known breaches.  
    If not found, it tells you your password wasn't detected in the database.
