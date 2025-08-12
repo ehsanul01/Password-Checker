@@ -20,6 +20,7 @@ It uses the **K-Anonymity model**, which allows checking passwords securely **wi
    ```
    CBFDA...
    ```
+   
 
 3. **API Search**  
    The API returns a list of hashes starting with those 5 characters, plus the number of times each has been seen in breaches.
